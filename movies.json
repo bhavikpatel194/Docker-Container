@@ -1,0 +1,51 @@
+{
+	"movies": [
+		{
+		"id" : "1",
+		"movie_name" : "Avengers",
+		"image" : "http://images.indianexpress.com/2015/02/avengers-759.jpg",
+		"movie_director": "Joss Whedon",
+		"movie_cast": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Scarlett Johansson"
+		},
+
+		{
+		"id" : "2",
+		"movie_name" : "The Martian",
+		"image" : "https://timedotcom.files.wordpress.com/2015/09/the-martian-mars-in-movies.jpg",
+		"movie_director": "Ridley Scott",
+		"movie_cast": "Matt Damon, Jessica Chastain"
+		},
+
+		{
+		"id" : "3",
+		"movie_name" : "The Fifth Estate",
+		"image" : "https://www.edgehill.ac.uk/events/files/2013/11/The-Fifth-Estate.jpg",
+		"movie_director": "Bill Condon",
+		"movie_cast": "Benedict Cumberbatch, Daniel Bruhl"
+		},
+
+		{
+		"id" : "4",
+		"movie_name" : "The Revenant",
+		"image" : "https://www.telegraph.co.uk/content/dam/film/the%20revenant/leo.jpg?imwidth=1400",
+		"movie_director": "Alejandro G. Inarritu",
+		"movie_cast": "Leonardo Dicaprio, Tom Hardey"
+		},
+
+		{
+		"id" : "5",
+		"movie_name" : "The Dark knight",
+		"image" : "https://www.legendarytrips.com/wp-content/uploads/Cover_The-Dark-Knight_2008_LegendaryTrips.jpg",
+		"movie_director": "Christopher Nolan",
+		"movie_cast": "Christian Bale, Heath Ledger, Aaron Eckhart"
+		},
+
+		{
+		"id" : "6",
+		"movie_name" : "Interstellar",
+		"image" : "http://i0.kym-cdn.com/photos/images/original/000/964/872/5b5.jpg" ,
+		"movie_director": "Christopher Nolan",
+		"movie_cast": "Matthew McConaughey, Anne Hathaway"
+		}
+	 ]
+ }

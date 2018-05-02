@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="{{url_for('static',filename='styles/index.css')}}" type="text/css">
+</head>
+<body>
+	<header>
+		<h1>Movies</h1>
+	</header>
+	<div id = "main">
+    {% for i in list_data %}
+		<div class="inner-div">
+			<img src="{{i.image}}" alt="Image Here">
+			<div class="details">
+				<h2>{{i.movie_name}}</h2>
+				<h3>Director: {{i.movie_director}}</h3>
+        <h3>Cast: {{i.movie_cast}}</h3>
+			</div>
+		</div>
+    {% endfor %}
+	</div>
+</body>
+</html>
